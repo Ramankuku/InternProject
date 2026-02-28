@@ -1,0 +1,161 @@
+disease,category,body_system,body_location,symptoms,description,severity,emergency,recommended_action
+Common Cold,Infection,Respiratory,"nose,throat","sneezing,runny nose,sore throat,cough",Viral upper respiratory infection,Low,False,Rest and hydration
+Asthma,Chronic Disease,Respiratory,chest,"shortness of breath,wheezing,chest tightness",Chronic airway inflammation,Medium,False,Use inhaler and consult doctor
+Pneumonia,Infection,Respiratory,"lungs,chest","fever,cough,chest pain,shortness of breath",Lung infection,High,True,Immediate medical care
+Tuberculosis,Infection,Respiratory,lungs,"chronic cough,blood in sputum,weight loss",Bacterial lung infection,High,True,Start anti-TB treatment
+COVID-19,Viral Infection,Respiratory,lungs,"fever,dry cough,loss of taste,fatigue",Respiratory viral infection,High,True,Testing and isolation
+Heart Attack,Cardiac Emergency,Cardiovascular,"chest,left arm","chest pain,shortness of breath,sweating",Blocked heart artery,Critical,True,Call emergency services
+Hypertension,Chronic Disease,Cardiovascular,whole body,"headache,dizziness,blurred vision",High blood pressure,Medium,False,Monitor BP regularly
+Stroke,Brain Emergency,Cardiovascular,"brain,face,arm","numbness,confusion,loss of balance",Blocked blood supply to brain,Critical,True,Immediate emergency care
+Gastritis,Inflammation,Digestive,stomach,"stomach pain,nausea,bloating",Stomach lining inflammation,Low,False,Antacids and diet control
+Appendicitis,Infection,Digestive,right lower abdomen,"severe abdominal pain,fever,vomiting",Appendix inflammation,High,True,Surgical evaluation
+Hepatitis B,Viral Infection,Digestive,liver,"jaundice,fatigue,dark urine",Liver infection,High,False,Consult hepatologist
+Food Poisoning,Infection,Digestive,"stomach,intestine","diarrhea,vomiting,fever",Contaminated food infection,Medium,False,Hydration therapy
+Muscle Strain,Injury,Musculoskeletal,"shoulder,back","pain,swelling,stiffness",Muscle overstretch injury,Low,False,Rest and ice
+Frozen Shoulder,Joint Disorder,Musculoskeletal,shoulder,"shoulder pain,restricted movement",Shoulder stiffness condition,Medium,False,Physiotherapy
+Cervical Spondylosis,Spine Disorder,Musculoskeletal,"neck,shoulder","neck pain,shoulder pain,tingling",Age-related spine wear,Medium,False,Orthopedic consultation
+Fracture,Injury,Musculoskeletal,"arm,leg,shoulder","severe pain,swelling,deformity",Broken bone,High,True,Immediate immobilization
+Arthritis,Chronic Disease,Musculoskeletal,joints,"joint pain,stiffness,swelling",Joint inflammation,Medium,False,Pain management
+Migraine,Neurological,Nervous,head,"severe headache,nausea,light sensitivity",Recurrent headache disorder,Medium,False,Pain relief medication
+Meningitis,Infection,Nervous,"head,neck","stiff neck,high fever,confusion",Brain membrane inflammation,Critical,True,Emergency antibiotics
+Epilepsy,Neurological,Nervous,brain,"seizures,confusion,loss of awareness",Seizure disorder,High,True,Neurologist consultation
+Malaria,Parasitic Infection,Infectious,whole body,"fever,chills,sweating",Mosquito-borne infection,Medium,False,Antimalarial treatment
+Dengue,Viral Infection,Infectious,whole body,"high fever,joint pain,rash",Mosquito viral infection,High,True,Hospital monitoring
+Cholera,Bacterial Infection,Infectious,intestine,"watery diarrhea,dehydration",Severe diarrhea infection,High,True,Immediate rehydration
+Typhoid,Bacterial Infection,Infectious,intestine,"prolonged fever,weakness",Food-borne infection,High,True,Antibiotic treatment
+Diabetes,Metabolic,Endocrine,whole body,"increased thirst,frequent urination,fatigue",High blood sugar disorder,Medium,False,Blood sugar monitoring
+Kidney Failure,Organ Failure,Renal,kidneys,"swelling,fatigue,shortness of breath",Loss of kidney function,Critical,True,Dialysis consultation
+Cancer,Oncology,Multiple,varies,"weight loss,fatigue,lumps",Uncontrolled cell growth,Critical,True,Oncology referral
+Sepsis,Critical Infection,Systemic,whole body,"fever,rapid heart rate,confusion",Severe body infection response,Critical,True,ICU admission
+Chest Pain,General Symptom,Cardiovascular,chest,"chest pain,pressure,sweating",May indicate heart issue,Critical,True,Emergency evaluation
+Right Shoulder Pain,General Symptom,Musculoskeletal,right shoulder,"pain while lifting arm,stiffness",Possible muscle or joint issue,Medium,False,Orthopedic visit
+Lower Back Pain,General Symptom,Musculoskeletal,lower back,"back pain,stiffness",Common musculoskeletal issue,Low,False,Rest and stretching
+Fever,General Symptom,General,whole body,"high temperature,weakness",Common infection symptom,Medium,False,Monitor and hydrate
+Allergic Rhinitis,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Sinusitis,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Bronchitis,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+GERD,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Peptic Ulcer,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+IBS,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Anemia,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Thyroid Disorder,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Depression,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Anxiety,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Panic Disorder,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Psoriasis,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Eczema,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Acne,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+UTI,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Gallstones,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Pancreatitis,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Obesity,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Osteoporosis,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Glaucoma,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Cataract,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Vertigo,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Tonsillitis,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Laryngitis,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Sciatica,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Hernia,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+Varicose Veins,General Disease,General,varies,"pain,fatigue,discomfort",Common medical condition,Medium,False,Consult appropriate specialist
+General Condition 60,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 61,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 62,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 63,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 64,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 65,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 66,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 67,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 68,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 69,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 70,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 71,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 72,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 73,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 74,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 75,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 76,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 77,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 78,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 79,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 80,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 81,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 82,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 83,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 84,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 85,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 86,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 87,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 88,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 89,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 90,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 91,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 92,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 93,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 94,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 95,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 96,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 97,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 98,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 99,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 100,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 101,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 102,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 103,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 104,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 105,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 106,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 107,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 108,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 109,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 110,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 111,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 112,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 113,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 114,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 115,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 116,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 117,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 118,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 119,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 120,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 121,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 122,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 123,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 124,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 125,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 126,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 127,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 128,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 129,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 130,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 131,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 132,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 133,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 134,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 135,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 136,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 137,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 138,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 139,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 140,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 141,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 142,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 143,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 144,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 145,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 146,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 147,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 148,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 149,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 150,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 151,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 152,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 153,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 154,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 155,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 156,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 157,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 158,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 159,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
+General Condition 160,General Disease,General,varies,"pain,fatigue,fever",General health condition,Low,False,Consult doctor if persists
